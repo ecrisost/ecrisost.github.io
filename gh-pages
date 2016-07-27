@@ -11,7 +11,7 @@
     <body>
         <div id='header'>
             <h2>FRIEND ART</h2>
-            <div id="desc">Art given to me by friends, or requested as part of a giveaway. Links are replaced with an '/' for the privacy of the artists</div>
+            <div id="desc">Links are replaced with an '/' for the privacy of the artists</div>
             <div id='nav_wrapper'>
                 <ul class='nav'>
                     <li><a href="/">home</</li>
@@ -62,7 +62,7 @@
                     <div class='wrapper'>Nyla Lavellan
                         <br>by:<a href="/">t</a></br>
                         </div>
-                </div>
+                <!--</div>
                 <div class='pics'><img src='http://i.imgur.com/rRgrSZ1.png'></img>
                         <div class='wrapper'>Florante x Wa'ar
                          <br>by:<a href="/">t</a></br>
@@ -72,7 +72,7 @@
                         <div class='wrapper'>Florante Trevelyan
                             <br>by:<a href="/">xla-hainex</a></br>
                         </div>
-                </div>
+                </div> -->
                 <div class='pics'><img src='http://i.imgur.com/CruFXLU.png'></img>
                         <div class='wrapper'>Florante Trevelyan
                             <br>by:<a href="htp://slugette.tumblr.com">slugette</a></br>
